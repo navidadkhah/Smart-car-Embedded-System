@@ -72,7 +72,7 @@ The system was modeled using **Tinkercad** and **Simulink** to simulate various 
 - **Description**: This model simulates how the car detects obstacles using ultrasonic sensors and applies varying levels of braking based on the distance to the obstacle.
 - **Screenshot**: *(Insert a screenshot of the obstacle detection model)*
 
-<img src="https://github.com/user-attachments/assets/466298f9-2d91-4b81-a3fb-aa2ebc4892f2" width =  "400">
+<img src="https://github.com/user-attachments/assets/a5bf5893-9c41-4df7-87a8-f032f82489b5" width =  "400">
 
 
 ### Battery Monitoring Model
