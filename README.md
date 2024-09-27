@@ -28,8 +28,9 @@ It uses **FreeRTOS** to schedule and manage various tasks in real-time, ensuring
 
 ## Features
 
+<p align="Center">
 <img src="https://github.com/user-attachments/assets/3e6bb0bb-a7d0-41b8-a047-bd64c5ff2e9b" width ="400">
-
+</p>
 
 1. **Line Following and Obstacle Detection**  
    The car uses infrared sensors to follow a path and ultrasonic sensors to detect obstacles. Based on the sensor feedback, the car can adjust its course or brake.
@@ -48,6 +49,10 @@ It uses **FreeRTOS** to schedule and manage various tasks in real-time, ensuring
 
 ## Modeling
 
+<p align="Center">
+<img src="https://github.com/user-attachments/assets/a5d29f81-af57-4d09-9c6f-025280ef1a4d" width="400">
+</p>
+
 The system was modeled using **Tinkercad** and **Simulink** to simulate various components before implementation. Below is a breakdown of each model used:
 
 ### Vehicle Movement Model
@@ -55,8 +60,9 @@ The system was modeled using **Tinkercad** and **Simulink** to simulate various 
 - **Description**: This model simulates the car's movement along a predefined path with line-following logic based on input from the IR sensors.
 - **Screenshot**: *(Insert a screenshot of the vehicle movement model)*
 
+<p align="Center">
 <img src="https://github.com/user-attachments/assets/a8800607-49a6-41f7-9872-cd30b39f8a2d" width="400">
-
+</p>
 ### Cruise Control Model
 
 - **Description**: Cruise control was modeled to maintain a constant speed, adjusting for slopes and other terrain features using encoders and speed sensors.
@@ -66,25 +72,25 @@ The system was modeled using **Tinkercad** and **Simulink** to simulate various 
 
 - **Description**: The car's lights are controlled automatically based on ambient light levels using photodiodes, with the model adjusting light states accordingly.
 - **Screenshot**: *(Insert a screenshot of the light management model)*
-
+<p align="Center">
 <img src="https://github.com/user-attachments/assets/e37abc2d-3ba1-4dcb-a274-222df52f4a31" width ="400">
-
+</p>
 
 ### Obstacle Detection Model
 
 - **Description**: This model simulates how the car detects obstacles using ultrasonic sensors and applies varying levels of braking based on the distance to the obstacle.
 - **Screenshot**: *(Insert a screenshot of the obstacle detection model)*
-
+<p align="Center">
 <img src="https://github.com/user-attachments/assets/a059e869-e165-4911-a26a-00d9b81d39fc" width =  "400">
-
+</p>
 
 ### Battery Monitoring Model
 
 - **Description**: The battery monitoring system calculates the car's remaining energy based on time elapsed and displays the status on an LCD screen.
 - **Screenshot**: *(Insert a screenshot of the battery monitoring model)*
-
+<p align="Center">
 <img src="https://github.com/user-attachments/assets/5115cd31-a03a-4fe5-9efc-50e40f64973f" width = "400">
-
+</p>
 
 ## Real-Time Operating System (RTOS)
 
