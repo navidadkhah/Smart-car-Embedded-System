@@ -135,7 +135,7 @@ pio test
 
 ## Simulation
 
-You can view the **Tinkercad simulation** of this project [here](https://www.tinkercad.com/things/1XwYA2YhJHc-finalproject?sharecode=bQ98UG3xcL_wpaDuBa7_YqRBDrAiC1OnK-2HdcJsHyM).
+You can view the **Tinkercad simulation** of this project [here](https://www.tinkercad.com/things/1XwYA2YhJHc-smart-car-with-rtos-and-sensor-controllers).
 
 ### Suggested Photo Locations
 
