@@ -80,7 +80,7 @@ The system was modeled using **Tinkercad** and **Simulink** to simulate various 
 - **Description**: The battery monitoring system calculates the car's remaining energy based on time elapsed and displays the status on an LCD screen.
 - **Screenshot**: *(Insert a screenshot of the battery monitoring model)*
 
-< img src="https://github.com/user-attachments/assets/93c80db0-194b-4d88-8005-a864618b0010" width = "400">
+<img src="https://github.com/user-attachments/assets/93c80db0-194b-4d88-8005-a864618b0010" width = "400">
 
 
 ## Real-Time Operating System (RTOS)
