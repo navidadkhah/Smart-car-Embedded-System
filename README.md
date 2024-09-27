@@ -34,6 +34,9 @@ It uses **FreeRTOS** to schedule and manage various tasks in real-time, ensuring
 1. **Line Following and Obstacle Detection**  
    The car uses infrared sensors to follow a path and ultrasonic sensors to detect obstacles. Based on the sensor feedback, the car can adjust its course or brake.
 
+<img src="https://github.com/user-attachments/assets/a8800607-49a6-41f7-9872-cd30b39f8a2d" width="400">
+
+
 2. **Cruise Control**  
    The car maintains a constant speed using an encoder to adjust for slopes.
 
