@@ -63,10 +63,15 @@ The system was modeled using **Tinkercad** and **Simulink** to simulate various 
 <p align="Center">
 <img src="https://github.com/user-attachments/assets/a8800607-49a6-41f7-9872-cd30b39f8a2d" width="400">
 </p>
+
 ### Cruise Control Model
 
 - **Description**: Cruise control was modeled to maintain a constant speed, adjusting for slopes and other terrain features using encoders and speed sensors.
 - **Screenshot**: *(Insert a screenshot of the cruise control model)*
+<p align="Center">
+<img src="https://github.com/user-attachments/assets/9f03a1f5-c35d-4ebd-9437-6deac8711656" width="400">
+</p>
+
 
 ### Light Management Model
 
