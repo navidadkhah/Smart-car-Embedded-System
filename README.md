@@ -72,7 +72,7 @@ The system was modeled using **Tinkercad** and **Simulink** to simulate various 
 - **Description**: This model simulates how the car detects obstacles using ultrasonic sensors and applies varying levels of braking based on the distance to the obstacle.
 - **Screenshot**: *(Insert a screenshot of the obstacle detection model)*
 
-<img src="https://github.com/user-attachments/assets/a5bf5893-9c41-4df7-87a8-f032f82489b5" width =  "400">
+<img src="https://github.com/user-attachments/assets/a059e869-e165-4911-a26a-00d9b81d39fc" width =  "400">
 
 
 ### Battery Monitoring Model
@@ -80,7 +80,7 @@ The system was modeled using **Tinkercad** and **Simulink** to simulate various 
 - **Description**: The battery monitoring system calculates the car's remaining energy based on time elapsed and displays the status on an LCD screen.
 - **Screenshot**: *(Insert a screenshot of the battery monitoring model)*
 
-<img src="https://github.com/user-attachments/assets/93c80db0-194b-4d88-8005-a864618b0010" width = "400">
+<img src="https://github.com/user-attachments/assets/5115cd31-a03a-4fe5-9efc-50e40f64973f" width = "400">
 
 
 ## Real-Time Operating System (RTOS)
