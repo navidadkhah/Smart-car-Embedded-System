@@ -1,1 +1,1 @@
-# Smart-car-Embedded-System
+# Smart Car with RTOS and Sensor Controllers
