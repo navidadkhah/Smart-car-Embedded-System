@@ -34,9 +34,6 @@ It uses **FreeRTOS** to schedule and manage various tasks in real-time, ensuring
 1. **Line Following and Obstacle Detection**  
    The car uses infrared sensors to follow a path and ultrasonic sensors to detect obstacles. Based on the sensor feedback, the car can adjust its course or brake.
 
-<img src="https://github.com/user-attachments/assets/a8800607-49a6-41f7-9872-cd30b39f8a2d" width="400">
-
-
 2. **Cruise Control**  
    The car maintains a constant speed using an encoder to adjust for slopes.
 
@@ -58,6 +55,8 @@ The system was modeled using **Tinkercad** and **Simulink** to simulate various 
 - **Description**: This model simulates the car's movement along a predefined path with line-following logic based on input from the IR sensors.
 - **Screenshot**: *(Insert a screenshot of the vehicle movement model)*
 
+<img src="https://github.com/user-attachments/assets/a8800607-49a6-41f7-9872-cd30b39f8a2d" width="400">
+
 ### Cruise Control Model
 
 - **Description**: Cruise control was modeled to maintain a constant speed, adjusting for slopes and other terrain features using encoders and speed sensors.
@@ -77,6 +76,9 @@ The system was modeled using **Tinkercad** and **Simulink** to simulate various 
 
 - **Description**: The battery monitoring system calculates the car's remaining energy based on time elapsed and displays the status on an LCD screen.
 - **Screenshot**: *(Insert a screenshot of the battery monitoring model)*
+
+![image](https://github.com/user-attachments/assets/93c80db0-194b-4d88-8005-a864618b0010)
+
 
 ## Real-Time Operating System (RTOS)
 
