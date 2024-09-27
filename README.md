@@ -137,16 +137,10 @@ pio test
 
 You can view the **Tinkercad simulation** of this project [here](https://www.tinkercad.com/things/1XwYA2YhJHc-smart-car-with-rtos-and-sensor-controllers).
 
-### Suggested Photo Locations
-
-- **Line Following System**: Place a screenshot of the car following a line, with infrared sensors in action.  
-  _(Suggested location: Above the "Line Following and Obstacle Detection" section)_
-  
-- **Obstacle Detection**: Add a photo of the car detecting an obstacle and braking.  
-  _(Suggested location: Under the "Obstacle Detection Task" description)_
-  
-- **Light Management**: Insert an image showing the lights turning on in low-light conditions.  
-  _(Suggested location: Near the "Light Management Task" explanation)_
+<p align="Center">
+   <img alt="Simulation snip"src="https://github.com/user-attachments/assets/80b9ad5a-4018-4e74-aa7d-4643ccb89c3c" width="600">
+</p>
+ - All features are in the one single file and working sequentially. If we want to work this features parallelly, we should use RTOS.
 
 ## Contributing
 
