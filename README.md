@@ -67,6 +67,9 @@ The system was modeled using **Tinkercad** and **Simulink** to simulate various 
 - **Description**: The car's lights are controlled automatically based on ambient light levels using photodiodes, with the model adjusting light states accordingly.
 - **Screenshot**: *(Insert a screenshot of the light management model)*
 
+<img src="https://github.com/user-attachments/assets/e37abc2d-3ba1-4dcb-a274-222df52f4a31" width ="400">
+
+
 ### Obstacle Detection Model
 
 - **Description**: This model simulates how the car detects obstacles using ultrasonic sensors and applies varying levels of braking based on the distance to the obstacle.
